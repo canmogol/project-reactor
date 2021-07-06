@@ -3,12 +3,12 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.alicanmogol</groupId>
-    <artifactId>reactor</artifactId>
+    <groupId>com.canmogol</groupId>
+    <artifactId>project-reactor</artifactId>
     <version>0.0.1</version>
     <packaging>jar</packaging>
 
-    <name>reactor</name>
+    <name>project-reactor</name>
     <description>Reactor library related examples</description>
 
     <properties>
@@ -61,6 +61,5 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
-
 
 </project>

@@ -21,6 +21,8 @@ On Windows environment you may run the `mvnw.cmd` command.
 mvnw.cmd clean install
 ```
 
+[![CircleCI](https://circleci.com/gh/canmogol/project-reactor/tree/master.svg?style=svg)](https://circleci.com/gh/canmogol/project-reactor/tree/master)
+
 **Examples**
 
 You can find the usage examples in the tests. 

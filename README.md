@@ -289,6 +289,5 @@ hotFlux.subscribe(System.out::println);
  
 ![Slide 11](NIO-Reactor-WebFlux/Slide11.jpg)
  
-![Slide 12](NIO-Reactor-WebFlux/Slide12.jpg)
  
  

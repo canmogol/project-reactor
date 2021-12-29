@@ -267,27 +267,27 @@ hotFlux.subscribe(System.out::println);
 
 # NIO - Reactor - WebFlux Slides
 
-![Slide 1](NIO-Reactor-WebFlux/Slide1.jpg)
+![Slide 1](NIO-Reactor-WebFlux/Slide1.png)
  
-![Slide 2](NIO-Reactor-WebFlux/Slide2.jpg)
+![Slide 2](NIO-Reactor-WebFlux/Slide2.png)
  
-![Slide 3](NIO-Reactor-WebFlux/Slide3.jpg)
+![Slide 3](NIO-Reactor-WebFlux/Slide3.png)
  
-![Slide 4](NIO-Reactor-WebFlux/Slide4.jpg)
+![Slide 4](NIO-Reactor-WebFlux/Slide4.png)
  
-![Slide 5](NIO-Reactor-WebFlux/Slide5.jpg)
+![Slide 5](NIO-Reactor-WebFlux/Slide5.png)
  
-![Slide 6](NIO-Reactor-WebFlux/Slide6.jpg)
+![Slide 6](NIO-Reactor-WebFlux/Slide6.png)
  
-![Slide 7](NIO-Reactor-WebFlux/Slide7.jpg)
+![Slide 7](NIO-Reactor-WebFlux/Slide7.png)
  
-![Slide 8](NIO-Reactor-WebFlux/Slide8.jpg)
+![Slide 8](NIO-Reactor-WebFlux/Slide8.png)
  
-![Slide 9](NIO-Reactor-WebFlux/Slide9.jpg)
+![Slide 9](NIO-Reactor-WebFlux/Slide9.png)
  
-![Slide 10](NIO-Reactor-WebFlux/Slide10.jpg)
+![Slide 10](NIO-Reactor-WebFlux/Slide10.png)
  
-![Slide 11](NIO-Reactor-WebFlux/Slide11.jpg)
+![Slide 11](NIO-Reactor-WebFlux/Slide11.png)
  
  
  
